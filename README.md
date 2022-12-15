@@ -40,7 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" title="NumPy" alt="NumPy" width="50" height="50"/>&nbsp;
-  <img src="https://scipy.org/images/logo.svg" title="Scipy" alt="Scipy" width="50" height="50"/>&nbsp;
+  <img src="https://scipy.org/images/logo.svg" title="SciPy" alt="SciPy" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" title="scikit-learn" alt="scikit-learn" width="80" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1920px-Matplotlib_icon.svg.png" title="Matplotlib" alt="Matplotlib" width="50" height="50"/>&nbsp;
