@@ -81,7 +81,7 @@
 ---
 
 <div id="portfolio" align="center">
-<h2> :fire: My portfolio :fire: </h2>
+<h2> :fire: Portfolio :fire: </h2>
 </div>
 <div align="center">
   <img src="https://pytorch.org/assets/images/logo.svg" width="300"/>
