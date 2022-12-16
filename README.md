@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://github.com/Fedorov-Nikita#-fire-my-portfolio-fire-">
+  <a href="https://github.com/Fedorov-Nikita#-fire-portfolio-fire-">
     <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/fedorov-nikita/">
