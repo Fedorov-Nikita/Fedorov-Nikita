@@ -104,7 +104,7 @@
 
 | Notebook | Description |
 |----------|----------|
-| [Classification](notebook-url-on-github) | Description of notebook |
+| [Multi-class classification](https://github.com/Fedorov-Nikita/Classification-Flags) | Building a multi-class classification model based on decision trees. From a set of data describing the flags of different countries, the model predicts the official religion of the countries. Realised: feature engineering, feature selection, bagging, boosting. |
 
 ---
 
