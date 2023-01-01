@@ -7,13 +7,16 @@
     <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/fedorov-nikita/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:fedorov.nvad@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
   <a href="https://www.kaggle.com/nfedorov">
-    <img src="https://img.shields.io/badge/Kaggle-blue?logo=Kaggle&logoColor=white&style=for-the-badge" alt="Kaggle Badge"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white&style=for-the-badge" alt="Kaggle Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/Amelot">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
   </a>
   <a href="https://drive.google.com/file/d/1w2Y2iCpQbMWzTgwyV1RmUVHP6ygPVeUP/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge" alt="Resume Badge"/>
@@ -22,12 +25,29 @@
 
 ---
 
+
+
 <div id="aboutme" align="center">
   <h2> :man_technologist:  About me :man_technologist: </h2>
   :zap: Making artificial intelligence work for human intelligence :zap:
     <br>I'm a Data Scientist from Israel with 4+ years experience in data analysis in the oil industry.
   I'm currently improving my skills as a data scientist and looking for a job in a new field!</br>
 </div>
+<!--
+<table align="center" border="0">
+<tbody>
+	<tr>
+		<td width="600" align="center">
+			<p>:zap: Making artificial intelligence work for human intelligence :zap:</p>
+			<p>I'm a Data Scientist from Israel with 4+ years experience in data analysis in the oil industry. I'm currently improving my skills as a data scientist and looking for a job in a new field!</p>
+		</td>
+		<td width="200" align="center">
+			<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nfedorov/competition" alt="Python"/>
+		</td>
+	</tr>
+</tbody>
+</table>
+-->
 
 ---
 
