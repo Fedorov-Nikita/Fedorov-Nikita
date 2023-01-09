@@ -118,7 +118,6 @@
   <a href="https://www.mongodb.com/">
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   </a>
-  </a>
   <a href="https://aws.amazon.com/">
       <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon_AWS"/>
   </a>
@@ -132,6 +131,11 @@
   <a href="https://git-scm.com/">
       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </a>
+<!--
+  <a href="https://dvc.org/">
+      <img src="https://img.shields.io/badge/DVC-945DD5?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
+  </a>
+-->
   <a href="https://github.com/">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
