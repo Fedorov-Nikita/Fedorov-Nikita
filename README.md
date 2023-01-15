@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/wz4jsOgrZgxHg8eUKf/giphy.gif" width="300"/>
-</div>
+</div> -->
 
 <div id="badges" align="center">
   <a href="https://github.com/Fedorov-Nikita/Portfolio">
@@ -26,33 +26,36 @@
 ---
 
 
-
+<!-- 
 <div id="aboutme" align="center">
   <h2> :man_technologist:  About me :man_technologist: </h2>
   :zap: Making artificial intelligence work for human intelligence :zap:
     <br>I'm a Data Scientist from Israel with 4+ years experience in data analysis in the oil industry.
   I'm currently improving my skills as a data scientist and looking for a job in a new field!</br>
 </div>
-<!--
+ -->
 <table align="center" border="0">
 <tbody>
 	<tr>
-		<td width="600" align="center">
+		<td  align="center">
+			<h2>About me</h2>
 			<p>:zap: Making artificial intelligence work for human intelligence :zap:</p>
 			<p>I'm a Data Scientist from Israel with 4+ years experience in data analysis in the oil industry. I'm currently improving my skills as a data scientist and looking for a job in a new field!</p>
+<!-- 			<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nfedorov/competition" alt="my kaggle"/> -->
+			<p align="right">Created with <a href="https://labs.openai.com/s/wrUHIrL70GJXu0FuAZC4EIDK">DALL·E</a>, an AI system by OpenAI</p>
 		</td>
-		<td width="200" align="center">
-			<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nfedorov/competition" alt="Python"/>
+		<td width="400" higth="400" align="center">
+			<img src="https://github.com/Fedorov-Nikita/Portfolio/blob/main/projects-previews/main-preview-DALLE.png" alt="DALLE"/>
 		</td>
 	</tr>
 </tbody>
 </table>
--->
+
 
 ---
 
 <div id="tools" align="center">
-<h2> :hammer_and_wrench: Tech Stack :hammer_and_wrench: </h2>
+<h2>Tech Stack</h2>
 </div>
 <div id="py-badges" align="center">
   <a href="https://www.python.org/">
@@ -139,20 +142,23 @@
   <a href="https://github.com/">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://streamlit.io/">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
+  </a>
   <a href="https://www.notion.so/">
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   </a>
 </div>
 <!--
 <div id="github-summary" align="center">
-<h2> 💳 Github Profile Summary Card 💳 </h2>
+<h2>Github Profile Summary Card</h2>
 </div>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fedorov-Nikita&theme=github_dark"/>
 </p>
 -->
 <div id="github-stats" align="center">
-<h2> 📟 GitHub Stats 📟 </h2>
+<h2>GitHub Stats</h2>
 </div>
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=fedorov-nikita&show_icons=true&theme=github_dark" />
