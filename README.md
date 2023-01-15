@@ -1,39 +1,3 @@
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/wz4jsOgrZgxHg8eUKf/giphy.gif" width="300"/>
-</div> -->
-
-<!-- <div id="badges" align="center">
-  <a href="https://github.com/Fedorov-Nikita/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/fedorov-nikita/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:fedorov.nvad@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.kaggle.com/nfedorov">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white&style=for-the-badge" alt="Kaggle Badge"/>
-  </a>
-  <a href="https://www.hackerrank.com/Amelot">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1w2Y2iCpQbMWzTgwyV1RmUVHP6ygPVeUP/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge" alt="Resume Badge"/>
-  </a>
-</div>
-
---- -->
-
-
-<!-- 
-<div id="aboutme" align="center">
-  <h2> :man_technologist:  About me :man_technologist: </h2>
-  :zap: Making artificial intelligence work for human intelligence :zap:
-    <br>I'm a Data Scientist from Israel with 4+ years experience in data analysis in the oil industry.
-  I'm currently improving my skills as a data scientist and looking for a job in a new field!</br>
-</div>
- -->
 <table align="center" border="0">
 <tbody>
 	<tr>
@@ -64,8 +28,6 @@
 		    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
 		  </a>
 		</div>
-			<p>	</p>
-<!-- 			<p align="right">Created with <a href="https://labs.openai.com/s/wrUHIrL70GJXu0FuAZC4EIDK">DALL·E</a>, an AI system by OpenAI</p> -->
 		</td>
 		<td width="400" higth="400" align="center">
 			<img src="https://github.com/Fedorov-Nikita/Portfolio/blob/main/projects-previews/main-preview-DALLE.png" alt="DALLE"/>
@@ -172,14 +134,6 @@
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   </a>
 </div>
-<!--
-<div id="github-summary" align="center">
-<h2>Github Profile Summary Card</h2>
-</div>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fedorov-Nikita&theme=github_dark"/>
-</p>
--->
 <div id="github-stats" align="center">
 <h2>GitHub Stats</h2>
 </div>
@@ -191,7 +145,6 @@
   
   
 <!--
-
 ![Project-status][status-active]
 ![Project-status][status-on-hold]
 ![Project-status][status-completed]
