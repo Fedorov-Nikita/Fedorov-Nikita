@@ -10,7 +10,7 @@
 		  <a href="https://github.com/Fedorov-Nikita/Portfolio">
 		    <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge" alt="Portfolio Badge"/>
 		  </a>
-		  <a href="https://drive.google.com/file/d/1w2Y2iCpQbMWzTgwyV1RmUVHP6ygPVeUP/view?usp=sharing">
+		  <a href="https://drive.google.com/file/d/1x2bvN__SH6Ag68YnjNfIn0p1rotO3udB">
 		    <img src="https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge" alt="Resume Badge"/>
 		  </a>
 		  </div>
