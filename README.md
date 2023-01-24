@@ -87,7 +87,7 @@
   </a>
 -->
   <a href="https://www.wandb.ai">
-      <img src="https://img.shields.io/badge/Weights_&_Biases-FFCC33?style=for-the-badge&logo=WeightsAndBiases&logoColor=black" alt="Wandb"/>
+      <img src="https://img.shields.io/badge/Wandb-black?style=for-the-badge&logo=WeightsAndBiases&logoColor=FFBE00" alt="Wandb"/>
   </a>
   <a href="https://www.tableau.com/">
       <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
