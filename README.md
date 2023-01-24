@@ -65,11 +65,11 @@
       <img src="https://img.shields.io/badge/pytorch-262626?style=for-the-badge&logo=pytorch&logoColor=%DE3412" alt="PyTorch"/>
   </a>
 <!--  
-  <a href="">
-      <img src="" alt=""/>
-  </a>
-  <a href="">
+  <a href="https://www.tensorflow.org/">
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  </a>
+  <a href="https://keras.io/">
+      <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   </a>
 -->
   
@@ -86,6 +86,9 @@
       <img src="https://img.shields.io/badge/plotly-black?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly"/>
   </a>
 -->
+  <a href="https://www.wandb.ai">
+      <img src="https://img.shields.io/badge/Weights_&_Biases-FFCC33?style=for-the-badge&logo=WeightsAndBiases&logoColor=black" alt="Wandb"/>
+  </a>
   <a href="https://www.tableau.com/">
       <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
   </a>
@@ -111,8 +114,7 @@
   </a>
   <a href="https://fastapi.tiangolo.com/">
       <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
-  </a>
--->
+  </a>-->
   <a href="https://www.docker.com/">
       <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   </a>
