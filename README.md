@@ -58,22 +58,23 @@
   <a href="https://scipy.org/">
       <img src="https://img.shields.io/badge/scipy-0054a6?style=for-the-badge&logo=scipy&logoColor=white" alt="Scipy"/>
   </a>
+</div>
+
+<div id="frameworks-badges" align="center">
   <a href="https://scikit-learn.org/stable/">
       <img src="https://img.shields.io/badge/Scikit--learn-ec9c4b?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit_learn"/>
   </a>
   <a href="https://pytorch.org/">
       <img src="https://img.shields.io/badge/pytorch-262626?style=for-the-badge&logo=pytorch&logoColor=%DE3412" alt="PyTorch"/>
   </a>
-<!--  
   <a href="https://www.tensorflow.org/">
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   </a>
   <a href="https://keras.io/">
       <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   </a>
--->
-  
-</div>  
+</div>
+
 <div id="dataviz-badges" align="center">
   <a href="https://matplotlib.org/">
       <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=codacy&logoColor=white" alt="Matplotlib"/>
@@ -115,11 +116,11 @@
   <a href="https://fastapi.tiangolo.com/">
       <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
   </a>-->
-  <a href="https://www.docker.com/">
-      <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
   <a href="https://streamlit.io/">
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
+  </a>
+  <a href="https://www.docker.com/">
+      <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   </a>
   <a href="https://git-scm.com/">
       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
