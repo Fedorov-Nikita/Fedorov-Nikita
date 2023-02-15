@@ -112,10 +112,10 @@
   </a>
   <a href="https://aws.amazon.com/">
       <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon_AWS"/>
-  </a>
+  </a>-->
   <a href="https://fastapi.tiangolo.com/">
       <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
-  </a>-->
+  </a>
   <a href="https://streamlit.io/">
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
   </a>
