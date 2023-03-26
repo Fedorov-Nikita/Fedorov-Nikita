@@ -4,13 +4,13 @@
 		<td  align="center">
 			<h2>About me</h2>
 			<p>:zap: Making artificial intelligence work for human intelligence :zap:</p>
-			<p>I'm a Data Scientist from Israel with 4+ years experience in data analysis in the oil industry. I'm currently improving my skills as a data scientist and looking for a job in a new field!</p>
+			<p>Data Scientist from Israel with 4+ years experience in building machine learning models and statistical analysis. I love data and Data Science is my lifestyle: I do some ML and NLP projects, which help me both in my work and in my life.</p>
 <!-- 			<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/nfedorov/competition" alt="my kaggle"/> -->
 		  <div id="badges" align="center">
 		  <a href="https://github.com/Fedorov-Nikita/Portfolio">
 		    <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge" alt="Portfolio Badge"/>
 		  </a>
-		  <a href="https://drive.google.com/file/d/1DIOhC0_8losyjUOOuU_5_Zd6PuthJv3n/view?usp=sharing">
+		  <a href="https://drive.google.com/file/d/1F-0s1t-sT6DB1vhiYH0aKUXxc2IGVFRT/view?usp=sharing">
 		    <img src="https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge" alt="Resume Badge"/>
 		  </a>
 		  </div>
